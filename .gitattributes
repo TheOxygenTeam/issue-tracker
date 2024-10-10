@@ -1,0 +1,7 @@
+*.html linguist-detectable=false
+*.nbt linguist-detectable=true
+*.toml linguist-detectable=true
+*.config linguist-detectable=true
+*.bat linguist-detectable=true
+*.mcfunction linguist-detectable=true
+*.json linguist-detectable=true
